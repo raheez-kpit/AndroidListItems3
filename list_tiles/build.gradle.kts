@@ -63,7 +63,7 @@ publishing {
     publications {
         register<MavenPublication>("release") {
             groupId = "com.github.raheez-kpit"
-            artifactId = "list-tile-compose"
+            artifactId = "android-list-items-3"
             version = "1.0"
 
             afterEvaluate {
